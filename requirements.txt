@@ -1,0 +1,22 @@
+# Core Streamlit and Web Framework
+streamlit>=1.28.0
+
+# Data Processing
+pandas>=1.5.3
+numpy>=1.24.4
+
+# PDF Generation and Processing
+fpdf>=1.7.2   # Updated to fpdf2 latest stable
+pdfplumber>=0.9.0
+
+# AI/LLM Integration
+groq>=0.4.1
+
+# HTTP Requests (fallback for API calls)
+requests>=2.31.0
+
+# Date/Time Utilities
+python-dateutil>=2.8.2
+
+# Optional: for better PDF unicode support
+reportlab>=3.7.0
