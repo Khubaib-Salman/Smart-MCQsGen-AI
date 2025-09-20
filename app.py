@@ -1,4 +1,4 @@
-import streamlit as st
+Fimport streamlit as st
 import pandas as pd
 import json
 import re
@@ -869,11 +869,12 @@ def render_footer():
     <div class="footer">
         <h3 style="margin-bottom: 1rem;">👥 Development Team</h3>
         <div>
-            <span class="team-member">💼 Lai</span>
-            <span class="team-member">⚡ Khubaib</span>
-            <span class="team-member">🚀 Raza</span>
-            <span class="team-member">💡 Jamshed</span>
-            <span class="team-member">🎯 Asraf</span>
+            <span class="team-member">💼 Engr. Azhar</span>
+            <span class="team-member">💼 Engr. Khubaib</span>
+            <span class="team-member">⚡ Engr. Fawad</span>
+            <span class="team-member">🚀 Engr. Arfa</span>
+            <span class="team-member">💡 Engr. M Zain</span>
+            <span class="team-member">🎯 Engr. Rehman</span>
         </div>
         <p style="margin-top: 1rem; opacity: 0.8;">Built with ❤️ using Streamlit & Groq AI</p>
     </div>
